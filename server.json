@@ -1,90 +1,88 @@
-{
-  "podcasts": [
-    {
-      "id": 1,
-      "title": "English Audio Guide",
-      "cover": "https://raw.githubusercontent.com/yistaudioguide/cover-img/master/cover-img-eng.png",
-      "tracks": [
-        {
-          "id": "0",
-          "title": "Welcome Announcement",
-          "artist": "Big Bus Istanbul",
-          "url": "https://raw.githubusercontent.com/yistaudioguide/boat-tour-audio-guide-eng/master/00-Welcome.mp3",
-          "artwork": "https://raw.githubusercontent.com/yistaudioguide/boat-tour-audio-guide-img/master/bigbus-logo.jpg"
-        },
-        {
-          "id": "1",
-          "title": "St. Stephen Bulgarian Church",
-          "artist": "#1",
-          "url": "https://raw.githubusercontent.com/yistaudioguide/boat-tour-audio-guide-eng/master/01-St%20Stephen%20Bulgarian%20Church.mp3",
-          "artwork": "https://raw.githubusercontent.com/yistaudioguide/boat-tour-audio-guide-img/master/orthodox-church.jpg"
-        },
-        {
-          "id": "2",
-          "title": "Suleymaniye Mosque",
-          "artist": "Route #2",
-          "url": "https://raw.githubusercontent.com/yistaudioguide/boat-tour-audio-guide-eng/master/02-Suleymaniye%20Mosque.mp3",
-          "artwork": "https://raw.githubusercontent.com/yistaudioguide/boat-tour-audio-guide-img/master/suleymaniye-mosque.jpg"
-        },
-        {
-          "id": "3",
-          "title": "St. Stephen Bulgarian Church",
-          "artist": "Route #1",
-          "url": "https://raw.githubusercontent.com/yistaudioguide/boat-tour-audio-guide-eng/master/01-St%20Stephen%20Bulgarian%20Church.mp3",
-          "artwork": "https://raw.githubusercontent.com/yistaudioguide/boat-tour-audio-guide-img/master/orthodox-church.jpg"
-        },
-        {
-          "id": "4",
-          "title": "St. Stephen Bulgarian Church",
-          "artist": "Route #1",
-          "url": "https://raw.githubusercontent.com/yistaudioguide/boat-tour-audio-guide-eng/master/01-St%20Stephen%20Bulgarian%20Church.mp3",
-          "artwork": "https://raw.githubusercontent.com/yistaudioguide/boat-tour-audio-guide-img/master/orthodox-church.jpg"
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "title": "Русский Аудиогид",
-      "cover": "https://raw.githubusercontent.com/yistaudioguide/cover-img/master/cover-img-ru.png",
-      "tracks": [
-        {
-          "id": "5",
-          "title": "Welcome Announcement",
-          "artist": "Big Bus Itanbul",
-          "url": "https://raw.githubusercontent.com/yistaudioguide/boat-tour-audio-guide-eng/master/00-Welcome.mp3",
-          "artwork": "https://raw.githubusercontent.com/yistaudioguide/boat-tour-audio-guide-img/master/bigbus-logo.jpg"
-        },
-        {
-          "id": "6",
-          "title": "Welcome Announcement",
-          "artist": "Big Bus Itanbul",
-          "url": "https://raw.githubusercontent.com/yistaudioguide/boat-tour-audio-guide-eng/master/00-Welcome.mp3",
-          "artwork": "https://raw.githubusercontent.com/yistaudioguide/boat-tour-audio-guide-img/master/bigbus-logo.jpg"
-        },
-        {
-          "id": "7",
-          "title": "Welcome Announcement",
-          "artist": "Big Bus Istanbul",
-          "url": "https://raw.githubusercontent.com/yistaudioguide/boat-tour-audio-guide-eng/master/00-Welcome.mp3",
-          "artwork": "https://raw.githubusercontent.com/yistaudioguide/boat-tour-audio-guide-img/master/bigbus-logo.jpg"
-        },
-        {
-          "id": "8",
-          "title": "Welcome Announcement",
-          "artist": "Big Bus Itanbul",
-          "url": "https://raw.githubusercontent.com/yistaudioguide/boat-tour-audio-guide-eng/master/00-Welcome.mp3",
-          "artwork": "https://raw.githubusercontent.com/yistaudioguide/boat-tour-audio-guide-img/master/bigbus-logo.jpg"
-        },
-        {
-          "id": "9",
-          "title": "Welcome Announcement",
-          "artist": "Big Bus Itanbul",
-          "url": "https://raw.githubusercontent.com/yistaudioguide/boat-tour-audio-guide-eng/master/00-Welcome.mp3",
-          "artwork": "https://raw.githubusercontent.com/yistaudioguide/boat-tour-audio-guide-img/master/bigbus-logo.jpg"
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "title": "English Audio Guide",
+    "cover": "https://raw.githubusercontent.com/yistaudioguide/cover-img/master/cover-img-eng.png",
+    "tracks": [
+      {
+        "id": "0",
+        "title": "Welcome Announcement",
+        "artist": "Big Bus Istanbul",
+        "url": "https://raw.githubusercontent.com/yistaudioguide/boat-tour-audio-guide-eng/master/00-Welcome.mp3",
+        "artwork": "https://raw.githubusercontent.com/yistaudioguide/boat-tour-audio-guide-img/master/bigbus-logo.jpg"
+      },
+      {
+        "id": "1",
+        "title": "St. Stephen Bulgarian Church",
+        "artist": "#1",
+        "url": "https://raw.githubusercontent.com/yistaudioguide/boat-tour-audio-guide-eng/master/01-St%20Stephen%20Bulgarian%20Church.mp3",
+        "artwork": "https://raw.githubusercontent.com/yistaudioguide/boat-tour-audio-guide-img/master/orthodox-church.jpg"
+      },
+      {
+        "id": "2",
+        "title": "Suleymaniye Mosque",
+        "artist": "Route #2",
+        "url": "https://raw.githubusercontent.com/yistaudioguide/boat-tour-audio-guide-eng/master/02-Suleymaniye%20Mosque.mp3",
+        "artwork": "https://raw.githubusercontent.com/yistaudioguide/boat-tour-audio-guide-img/master/suleymaniye-mosque.jpg"
+      },
+      {
+        "id": "3",
+        "title": "St. Stephen Bulgarian Church",
+        "artist": "Route #1",
+        "url": "https://raw.githubusercontent.com/yistaudioguide/boat-tour-audio-guide-eng/master/01-St%20Stephen%20Bulgarian%20Church.mp3",
+        "artwork": "https://raw.githubusercontent.com/yistaudioguide/boat-tour-audio-guide-img/master/orthodox-church.jpg"
+      },
+      {
+        "id": "4",
+        "title": "St. Stephen Bulgarian Church",
+        "artist": "Route #1",
+        "url": "https://raw.githubusercontent.com/yistaudioguide/boat-tour-audio-guide-eng/master/01-St%20Stephen%20Bulgarian%20Church.mp3",
+        "artwork": "https://raw.githubusercontent.com/yistaudioguide/boat-tour-audio-guide-img/master/orthodox-church.jpg"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Русский Аудиогид",
+    "cover": "https://raw.githubusercontent.com/yistaudioguide/cover-img/master/cover-img-ru.png",
+    "tracks": [
+      {
+        "id": "5",
+        "title": "Welcome Announcement",
+        "artist": "Big Bus Itanbul",
+        "url": "https://raw.githubusercontent.com/yistaudioguide/boat-tour-audio-guide-eng/master/00-Welcome.mp3",
+        "artwork": "https://raw.githubusercontent.com/yistaudioguide/boat-tour-audio-guide-img/master/bigbus-logo.jpg"
+      },
+      {
+        "id": "6",
+        "title": "Welcome Announcement",
+        "artist": "Big Bus Itanbul",
+        "url": "https://raw.githubusercontent.com/yistaudioguide/boat-tour-audio-guide-eng/master/00-Welcome.mp3",
+        "artwork": "https://raw.githubusercontent.com/yistaudioguide/boat-tour-audio-guide-img/master/bigbus-logo.jpg"
+      },
+      {
+        "id": "7",
+        "title": "Welcome Announcement",
+        "artist": "Big Bus Istanbul",
+        "url": "https://raw.githubusercontent.com/yistaudioguide/boat-tour-audio-guide-eng/master/00-Welcome.mp3",
+        "artwork": "https://raw.githubusercontent.com/yistaudioguide/boat-tour-audio-guide-img/master/bigbus-logo.jpg"
+      },
+      {
+        "id": "8",
+        "title": "Welcome Announcement",
+        "artist": "Big Bus Itanbul",
+        "url": "https://raw.githubusercontent.com/yistaudioguide/boat-tour-audio-guide-eng/master/00-Welcome.mp3",
+        "artwork": "https://raw.githubusercontent.com/yistaudioguide/boat-tour-audio-guide-img/master/bigbus-logo.jpg"
+      },
+      {
+        "id": "9",
+        "title": "Welcome Announcement",
+        "artist": "Big Bus Itanbul",
+        "url": "https://raw.githubusercontent.com/yistaudioguide/boat-tour-audio-guide-eng/master/00-Welcome.mp3",
+        "artwork": "https://raw.githubusercontent.com/yistaudioguide/boat-tour-audio-guide-img/master/bigbus-logo.jpg"
+      }
+    ]
+  }
+]
 
 
